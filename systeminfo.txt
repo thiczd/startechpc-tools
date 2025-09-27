@@ -1,0 +1,67 @@
+
+Host Name:                     TIBO
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              bloodmodii@gmail.com
+Registered Organization:       N/A
+Product ID:                    00342-22145-43785-AAOEM
+Original Install Date:         5/9/2025, 8:33:40 PM
+System Boot Time:              9/19/2025, 2:15:29 PM
+System Manufacturer:           LENOVO
+System Model:                  82Y9
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 25 Model 116 Stepping 1 AuthenticAMD ~3430 Mhz
+BIOS Version:                  LENOVO M3CN47WW, 6/30/2025
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC-06:00) Central Time (US & Canada)
+Total Physical Memory:         15,554 MB
+Available Physical Memory:     2,683 MB
+Virtual Memory: Max Size:      32,962 MB
+Virtual Memory: Available:     14,595 MB
+Virtual Memory: In Use:        18,367 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\TIBO
+Hotfix(s):                     3 Hotfix(s) Installed.
+                               [01]: KB5064401
+                               [02]: KB5065426
+                               [03]: KB5064531
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [02]: RZ616 Wi-Fi 6E 160MHz
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.1.1
+                                     IP address(es)
+                                     [01]: 192.168.1.19
+                                     [02]: fe80::56b9:83df:7c8c:554
+                               [03]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
